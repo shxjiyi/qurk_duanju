@@ -7,7 +7,8 @@
 # 重要提醒
 本文档更新热播短剧，资源存储在夸克网盘，复制对应的短剧链接，手机或电脑打开夸克网盘等待弹窗，保存后即可观看<br>
 仅供自己观看学习使用,下载后请于24小时内删除.不可用于商用,如有侵权,请联系我删除.<br><br>
-<b>由于github显示限制，无法显示全部链接，如需查看全部短剧链接，可以点击打开[README.md文件](https://github.com/shxjiyi/qurk_duanju/blob/main/README.md) 或者 通过上面的在线搜索链接进入复制</b><br><br>
+<b>由于github显示限制，下方表格无法显示出全部链接</b>
+<br><b>如需查看全部短剧链接，可以点击打开[README.md文件](https://github.com/shxjiyi/qurk_duanju/blob/main/README.md) 或者通过上面的在线搜索链接进入即可全部复制</b><br><br>
 | 短剧名称 | 网盘链接 | 
 | ---- | ---- |
 | 8791-迷失的女儿（27集） | https://pan.quark.cn/s/3d951c699254 |
